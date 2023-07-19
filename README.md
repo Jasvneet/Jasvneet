@@ -35,8 +35,7 @@ I'm thrilled to continue my journey as a software engineer, leveraging my biolog
 ***
 + 🏋🏻‍♂️ strength training
 + 🏊🏼‍♂️ swimming
-+ 🧘🏻‍♀️ meditation 
-+ 🙆🏻‍♀️ yoga
+
 
 <!--
 **Jasvneet/Jasvneet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
