@@ -28,9 +28,6 @@ I'm thrilled to continue my journey as a software engineer, leveraging my multi-
 
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Jasvneet&count_private=true&theme=tokyonight&showicons=true)
-
-
 ### Other Interests
 ***
 + 🏋🏻‍♂️ strength training
