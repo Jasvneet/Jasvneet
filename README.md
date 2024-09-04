@@ -1,11 +1,11 @@
-# Jasvneet Kaur
+
 
 ## Full Stack Developer | Software Engineer
 
 ### About Me
 ***
 
-Hello there! I'm Jasvneet, I have experience in full-stack development, designing intuitive user interfaces, and building backend systems. With each project, I strive to create clean, efficient, and scalable code while adhering to industry best practices. 
+Hello there! I have experience in full-stack development, designing intuitive user interfaces, and building backend systems. With each project, I strive to create clean, efficient, and scalable code while adhering to industry best practices. 
 
 I thrive in collaborative environments and enjoy working with diverse teams to bring ideas to life. I believe in the power of technology to make a positive impact on our world, and I'm excited to be part of the ongoing digital transformation. 
 
