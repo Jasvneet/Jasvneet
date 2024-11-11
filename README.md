@@ -28,12 +28,6 @@ I'm thrilled to continue my journey as a software engineer, leveraging my multi-
 
 
 
-### Other Interests
-***
-+ 🏋🏻‍♂️ strength training
-+ 🏊🏼‍♂️ swimming
-
-
 <!--
 **Jasvneet/Jasvneet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
